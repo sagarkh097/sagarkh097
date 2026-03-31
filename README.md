@@ -1,4 +1,4 @@
-Hi👋 i'm sagar.<br>
+Hi👋 i'm sagar.<b>
 
 
 ## 🌐 Socials:
